@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "dist/proy-int-ma-celeste-insinger-cap",
     "ignore": [
       "firebase.json",
       "**/.*",
