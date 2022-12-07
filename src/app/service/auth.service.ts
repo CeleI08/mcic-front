@@ -9,7 +9,7 @@ import { NuevoUsuario } from '../model/nuevo-usuario';
   providedIn: 'root'
 })
 export class AuthService {
-  authURL = 'https://mcic-back-production.up.railway.app/auth/';
+  authURL = 'https://backendmcic.herokuapp.com/auth/';
 
   constructor(private httpClient: HttpClient) { }
 
